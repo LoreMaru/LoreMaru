@@ -1,12 +1,4 @@
-<style>
-    button{
-        background-color: black
-    }
-    .conteiner{
-        display: flex;
-       justify-content: space-around
-    }
-</style>
+
 
 <h1 align="center">Hi 👋, I'm Lorena</h1>
 <h3 align="center">A passionate frontend developer in making</h3>
