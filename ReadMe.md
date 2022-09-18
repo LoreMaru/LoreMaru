@@ -26,20 +26,7 @@
 </div>
 </div>
 <hr>
-<div align="center">
-<script src="code.js">
-</script>
 
-<h2>Play Rock-Paper-Scissors</h2>
-<h4>(in memory of my first JS project [2019])</h4>
-
-<h3>Result: </h3><h3 id="result">///</h3>
-
-<button type="button" id="rock" onclick="rockFN()">🤘</button>
-<button type="button" id="paper" onclick="paperFN()">🧻</button>
-<button type="button" id="scissors" onclick="scissorsFN()">✂️</button>
-
-</div>
 <hr>
 Something about me:
 
