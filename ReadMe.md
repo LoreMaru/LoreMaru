@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Lorena</h1>
-<h3 align="center">A passionate frontend developer in making</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <div class="conteiner">
 <div>
