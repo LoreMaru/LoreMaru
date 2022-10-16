@@ -43,4 +43,4 @@ const LoreMaru = {
 
 <hr>
 
-![Codewars]([https://github.r2v.ch/codewars?user=LoreMaru89](https://www.codewars.com/users/LoreMaru)&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=LoreMaru&stroke=%23BB432C)
