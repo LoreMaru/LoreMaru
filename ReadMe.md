@@ -42,3 +42,5 @@ const LoreMaru = {
 ```
 
 <hr>
+
+![Codewars](https://github.r2v.ch/codewars?user=LoreMaru89&stroke=%23BB432C)
