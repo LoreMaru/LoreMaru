@@ -29,12 +29,13 @@ const LoreMaru = {
   location: "Italy",
   apparence: "female",
   pronouns: "she/her",
-  skill: ["Javascript", "CSS", "HTML"],
-  tool: "React",
+  skill: ["Javascript", "CSS", "HTML", "Groovy"],
+  skillInProgress: ["Python", "VBS", "C#"],
+  tool/plantform: ["React", Oracle Cloud, Essbase],
+  t/pInProgress: ["Phaser", OneStream]
   hobbies: [
     "DIY",
     "Create-stuff-w/-Photoshop",
-    "Calligraphy",
     "Read",
     "Watch-TV-Shows",
   ],
