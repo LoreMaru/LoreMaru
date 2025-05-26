@@ -31,8 +31,8 @@ const LoreMaru = {
   pronouns: "she/her",
   skill: ["Javascript", "CSS", "HTML", "Groovy"],
   skillInProgress: ["Python", "VBS", "C#"],
-  tool/plantform: ["React", Oracle Cloud, Essbase],
-  t/pInProgress: ["Phaser", OneStream]
+  tool/plantform: ["React", "Oracle Cloud", "Essbase"],
+  t/pInProgress: ["Phaser", "OneStream"]
   hobbies: [
     "DIY",
     "Create-stuff-w/-Photoshop",
