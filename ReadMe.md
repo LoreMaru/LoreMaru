@@ -33,12 +33,7 @@ const LoreMaru = {
   skillInProgress: ["Python", "VBS", "C#"],
   tool/plantform: ["React", "Oracle Cloud", "Essbase"],
   t/pInProgress: ["Phaser", "OneStream"],
-  hobbies: [
-    "DIY",
-    "Create-stuff-w/-Photoshop",
-    "Read",
-    "Watch-TV-Shows",
-  ],
+  hobbies: ["DIY", "Create-stuff-w/-Photoshop", "Read", "Watch-TV-Shows"],
 };
 ```
 
