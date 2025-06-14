@@ -46,8 +46,7 @@ const LoreMaru = {
   pronouns: "she/her",
   role: "EPM Developer & Tech Consultant",
   skill: [ "MaxL", "Essbase", "Oracle Cloud", "SQL", "Groovy", "Javascript"],
-  skillInProgress: ["OneStream XF", "C#", "Python"],
-  tools: ["Essbase Studio", "Oracle Workspace", "PowerShell"],
+  skillInProgress: ["OneStream", "C#"],
   interests: ["Process automation", "Data validation", "Pixel art", "Indie game development"],
   hobbies: ["DIY", "Photoshop design", "Reading", "TV series"]
 };
